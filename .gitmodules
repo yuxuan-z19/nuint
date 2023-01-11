@@ -1,0 +1,3 @@
+[submodule "fpga"]
+	path = fpga
+	url = https://github.com/yuxuan-z19/VexRv64N.git
